@@ -11,9 +11,9 @@
 /* CSS pour le titre et la description */
 h1 {
   animation: slideIn 1s ease-out;
-  color: green; /*couleur du titre changer*/
 }
 
 p {
   animation: slideIn 1s ease-out 0.5s;
+  font-size: 20px; /*taille du texte du paragraphe changer*/
 }
